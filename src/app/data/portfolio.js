@@ -1,6 +1,6 @@
 export const portfolio = [
     {
-      category: 'aluminum',
+      category: 'Aluminum',
       title: 'Modern Office Partition',
       image: '/images/portfolio/aluminum-partition.jpg',
       description: 'Custom aluminum partition with glass integration for a corporate office'
